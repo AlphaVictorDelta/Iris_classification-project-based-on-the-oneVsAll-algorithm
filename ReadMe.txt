@@ -1,6 +1,12 @@
 Classification project to classify three sets of Iris flowers namely Iris_setosa(1), Iris_versicolor(2), and Iris_verginica(3)
 
-the dataset has 150 training examples (i.e 50 for each flower) with ‘4’ features for each flower. The features of the flowers are as follows :
+You can head to the links to get a idea about the flowers!
+	
+	https://en.wikipedia.org/wiki/Iris_setosa
+	https://en.wikipedia.org/wiki/Iris_versicolor
+	https://en.wikipedia.org/wiki/Iris_virginica
+
+the dataset ('iris.dat') has 150 training examples (i.e 50 for each flower) with ‘4’ features for each flower. The features of the flowers are as follows :
 	Sepal length in cm
 	Sepal width in cm
 	Petal length in cm
