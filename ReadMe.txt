@@ -18,7 +18,7 @@ You must have the Octave or Matlab to implement this project. I recommend using 
 
 
 
-iris_main.m file is like the skeleton for our project because it contains all the function calling statements.
+iris_main.m file is like the skeleton for this project because it contains all the function calling statements.
 
 
 
